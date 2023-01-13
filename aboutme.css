@@ -1,0 +1,38 @@
+html {
+  background-color:  rgb(230, 214, 144);
+}
+h1 {
+  text-align: center;
+ color: rgb(201, 062, 092);
+  letter-spacing: 1px;
+
+}
+h2 {
+  text-align: center;
+  color: rgb(201, 062, 092);
+}
+p {
+  text-align: center;
+  color: rgb(009, 057, 113);
+
+}
+h3 {
+  text-align: center;
+  color: rgb(201, 062, 092);
+
+}
+ul{
+  color: rgb(150, 021, 030);
+}
+ol{
+  color: rgb(150, 021, 030);
+}
+h4 {
+  color: rgb(201, 062, 092 );
+}
+a:visited {
+ color: rgb(7, 116, 87);
+}
+a:hover, a:active {
+  color: red;
+}

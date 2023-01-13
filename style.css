@@ -1,0 +1,30 @@
+p {
+  color: rgb(50, 151, 66);
+}
+html {
+  font-size: 20px;
+}
+body {
+  background-color: #333;
+  color: white;
+}
+h1 {
+  color:red;
+  text-align: center;
+}
+h2{
+  color: violet;
+}
+h3 {
+  color: rgb(127,181,181);
+}
+a{
+  color: aliceblue;
+}
+a:visited {
+  color: rgb(235, 170, 247) ;
+}
+a:hover, a:active {
+   color: rgb(253, 197, 247);
+}
+
